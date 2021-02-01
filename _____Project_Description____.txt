@@ -1,0 +1,12 @@
+1-) mainmenu.sh 
+# Sourcing this file will get the whole system up and running. 
+# Run this
+source mainmenu.sh
+
+2-) reset.sh 
+# An auxaillary script to reset everything by deleting all created users and groups and reset counters.
+# Run this
+source reset.sh
+
+3-)login_sys
+# The function to be called.
